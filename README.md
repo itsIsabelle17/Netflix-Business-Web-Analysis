@@ -1,8 +1,7 @@
 # Business, Web, and Marketing Analysis for Netflix
 
-## About the Project
-Netflix’s mission statement is “We want to entertain the world.” Netflix tries to attract customers to its service by providing access to best-in-class TV series, documentaries, feature films, and mobile games anywhere and anytime. Entertainment and Worldwide scale are primary points of Netflix’s mission statement. Netflix’s corporate vision is to be one of the leading companies of the OTT business era. The company focuses on continuing dominant leadership in OTT business, easy internet access, and entertainment.  
-Netflix was the first and largest streaming service, generating approximately $30 billion annually. And the giant dominated the market for a while until other competitors like Disney+, Hulu, Amazon Prime, and others entered the market over the past few years. However, with the development of the OTT industry, Netflix has been in a fierce battle with its competitors, and it has lost subscribers after 10 years. In particular, the number of subscribers lost about 1.2 million in the first and second quarters of this year, and the stock price also fell by more than 70% from the peak in November 2021.  
+## About the Project  
+Netflix's mission is to entertain the world by providing access to high-quality TV series, documentaries, films, and mobile games. Their vision is to be a leading company in the OTT business, focusing on dominant leadership, easy internet access, and entertainment. While Netflix was the first and largest streaming service, it has faced tough competition from rivals like Disney+, Hulu, and Amazon Prime. As a result, Netflix has experienced a decline in subscribers and a significant drop in stock price.  
 This project aims to suggest a marketing strategy by analyzing Netflix's business model and the problems it is currently facing.  
 
 ### Major Goals
@@ -71,7 +70,7 @@ This project aims to suggest a marketing strategy by analyzing Netflix's busines
   * Overall Results  
     * This is part of the summarization of the results of the overall traffic analysis over time, speculation about the reason, and all the contents of the recommendation to Netflix.
 
-* SEO: Keyword Analysis
+* SEO: Keyword Analysis  
   Keyword research helps businesses identify the best keywords to target and understand customer search behavior. It informs marketing and content strategies by revealing query popularity and ranking difficulty. Targeting relevant searches can increase website traffic. For Netflix, we conducted keyword research including Volume, CPC, Competitive Density, Natural Search Results, and User Intent Analysis. We analyzed specific keywords over the past 12 months.
   * Volume Analysis 
     * Volume analysis is a key metric in SEO that examines the average monthly search volume for a specific keyword over a 12-month period. 
