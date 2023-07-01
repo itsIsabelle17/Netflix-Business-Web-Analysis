@@ -1,4 +1,4 @@
-# Business, Web, and Marketing Analysis for Netflix
+# Business and Web Analysis for Netflix
 
 ## About the Project  
 Netflix's mission is to entertain the world by providing access to high-quality TV series, documentaries, films, and mobile games. Their vision is to be a leading company in the OTT business, focusing on dominant leadership, easy internet access, and entertainment. While Netflix was the first and largest streaming service, it has faced tough competition from rivals like Disney+, Hulu, and Amazon Prime. As a result, Netflix has experienced a decline in subscribers and a significant drop in stock price.  
